@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**bruno1114057861/bruno1114057861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ * meu nome è bruno henrique
+   
+- sou aluno da escola Elvira Santos de Oliveira
+- estou estudando na [alura](https://www.alura.com.br)
+- estou desenvolvendo na linguagem javaScript
+- utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001114057861sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/06Tt0b0zMCsAAAAd/bom-dia-dia-aben%C3%A7oado.gif)
